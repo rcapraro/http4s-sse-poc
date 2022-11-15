@@ -1,0 +1,10 @@
+.metals/
+.bloop/
+.vscode/
+target/
+.bsp/
+.idea/
+.DS_STORE
+logs/
+.log
+personal.conf
